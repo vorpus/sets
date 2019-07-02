@@ -1,0 +1,4 @@
+#NAME#CajunSea & Oyster Bar
+#URL#https://www.yelp.com/biz/cajunsea-and-oyster-bar-new-york-4?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#cajun,seafood,breakfast_brunch#RATING#4.0
+#PRICE#$$

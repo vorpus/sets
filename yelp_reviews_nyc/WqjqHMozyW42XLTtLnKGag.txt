@@ -1,0 +1,4 @@
+#NAME#La Pulperia Hell's Kitchen
+#URL#https://www.yelp.com/biz/la-pulperia-hells-kitchen-new-york?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#latin,seafood,bars#RATING#4.5
+#PRICE#$$$

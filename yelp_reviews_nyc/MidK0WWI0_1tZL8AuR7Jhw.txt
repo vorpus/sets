@@ -1,0 +1,4 @@
+#NAME#Candle 79
+#URL#https://www.yelp.com/biz/candle-79-new-york?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#vegetarian,vegan,gluten_free#RATING#4.0
+#PRICE#$$

@@ -1,0 +1,4 @@
+#NAME#THEP Thai Restaurant
+#URL#https://www.yelp.com/biz/thep-thai-restaurant-new-york-5?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#thai,noodles,asianfusion#RATING#4.5
+#PRICE#$$

@@ -1,0 +1,4 @@
+#NAME#Clinton Street Baking Company
+#URL#https://www.yelp.com/biz/clinton-street-baking-company-new-york-5?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#bakeries,breakfast_brunch,tradamerican#RATING#4.0
+#PRICE#$$

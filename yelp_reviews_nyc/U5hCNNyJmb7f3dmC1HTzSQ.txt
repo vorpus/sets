@@ -1,0 +1,4 @@
+#NAME#Junior's Restaurant & Bakery - 45th St.
+#URL#https://www.yelp.com/biz/juniors-restaurant-and-bakery-45th-st-new-york?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#bakeries,breakfast_brunch,burgers#RATING#4.0
+#PRICE#$$

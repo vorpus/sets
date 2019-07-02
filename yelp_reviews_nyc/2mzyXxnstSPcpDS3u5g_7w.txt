@@ -1,0 +1,4 @@
+#NAME#Park Avenue Autumn/Winter/Spring/Summer
+#URL#https://www.yelp.com/biz/park-avenue-autumn-winter-spring-summer-new-york-3?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#newamerican#RATING#4.0
+#PRICE#$$$

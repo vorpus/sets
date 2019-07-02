@@ -1,0 +1,4 @@
+#NAME#Westville West
+#URL#https://www.yelp.com/biz/westville-west-new-york?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#tradamerican,comfortfood,vegetarian#RATING#4.0
+#PRICE#$$

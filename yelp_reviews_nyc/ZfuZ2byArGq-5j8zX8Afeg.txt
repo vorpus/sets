@@ -1,0 +1,4 @@
+#NAME#Zest Sushi
+#URL#https://www.yelp.com/biz/zest-sushi-new-york-3?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#sushi,japanese,thai#RATING#4.0
+#PRICE#$$

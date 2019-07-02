@@ -1,0 +1,4 @@
+#NAME#Johny's Luncheonette
+#URL#https://www.yelp.com/biz/johnys-luncheonette-new-york?adjust_creative=31ouhXIdHOHIgZpexUMXNA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=31ouhXIdHOHIgZpexUMXNA
+#CUISINE#diners,breakfast_brunch,burgers#RATING#4.5
+#PRICE#$
