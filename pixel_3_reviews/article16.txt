@@ -1,0 +1,61 @@
+Say what you will about Google’s Pixel phones, but they’re nothing if not quietly impressive. The Android standard bearers represent the very pinnacle of what the mobile operating system can accomplish but, until now at least, Google's efforts have zeroed in on the premium end of the smartphone price scale.
+
+READ NEXT: The best mid-range smartphones
+
+In an attempt to introduce its phones to a wider market, the Pixel 3a (and its larger sibling) represent an important shift for the company. Bringing Google’s top-end camera tech and refined UI to the masses at a cheaper price, the Pixel 3a is perhaps the company’s boldest move yet.
+
+Google has ignored the rapidly expanding mid-range market for too long now, but the Pixel 3a is its first tantalising step back into cutthroat affordability. It looks identical to its pricier Pixel stablemates and it runs the same version of Android 9, with Google’s own slick Pixel launcher overlay. Most importantly, it uses the same award-winning camera.
+
+The differences between the two become more obvious when you dig a little deeper. You won’t find one of Qualcomm’s top-end mobile processors at this price, so the Pixel 3a has to make do with a less powerful Snapdragon 670 chipset. It also isn’t waterproof so don’t go dropping it in the bath.
+
+The best thing about the Pixel 3a is the price. Rather than nudge alarmingly close to the four-figure mark, the Pixel 3a costs a bargain £399. This represents stonkingly good value for money for a handset with notably few cutbacks, especially when the equally-kitted out Pixel 3 is currently doing the rounds for roughly £589.
+
+Of course, Google has now stepped into a heavily saturated area of the market. Xiaomi’s flagship-like Mi 9 is perhaps its biggest rival, managing to one-up Google's efforts by including Qualcomm’s most up-to-date Snapdragon 855 processor and a generous 8GB of RAM.
+
+There’s also the OnePlus 6T to wrestle with, which does very well at a similar price. A new OnePlus phone is also on the way, even if you’ll have to wait at least a couple of weeks for it and we don’t yet know how much it will cost. Lastly, as long as you’re willing to pay a little extra, the Pixel 3a XL adds a bigger screen and a larger-capacity battery for just £70 more, with a hardly XL price tag of £469.
+
+Even though the Pixel 3a costs less and includes slightly tweaked internal specifications, everything else, physically at least, remains the same. Seriously, even a spot-the-difference master wouldn’t be able to tell the two phones apart.
+
+The Pixel 3a keeps the same two-tone rear of its (slightly) older flagship counterparts. This incorporates a smoother section at the top of the phone, which surrounds the rear-facing camera module, softening to a grippier, silky matte finish towards the bottom. This isn’t a glass and aluminium combo this time around, though: the new phone is instead constructed entirely from polycarbonate plastic.
+
+Not that this leads, by any means, to a cheap-feeling device. The Pixel 3a is a delight to hold and use, fitting comfortably in the palm of your hand. Google’s circular fingerprint reader sits in the same location on the back of the phone and there’s a USB Type-C charging port on the bottom, flanked by a pair of speaker grilles.
+
+Google’s “Active Edge” feature also makes another appearance, allowing you to activate Google Assistant if you squeeze the bottom portion of the phone. This uses machine learning to tell the difference between a proper squeeze and an accidental one, but I still find this feature to be completely redundant, especially when you can just say “Hey Google” to access the assistant.
+
+Which brings me neatly to the phone’s short list of drawbacks. In order to cut costs, Google has stripped the Pixel 3a of any officially rated dust or waterproofing, and there isn’t a protective layer of Gorilla Glass fixed to the front of the phone’s screen, either. Instead, the Pixel 3a uses the lesser-used Dragontrail – no, not a video game from the mid-eighties – to protect the display from scratches.
+
+As there’s no glass rear, Google has also abandoned wireless charging. Google’s separate Pixel Stand charger, which also turns its phones into a mini Home Hub assistant, is pretty much useless here. Still, the Pixel 3a does include a 3.5mm headphone jack on the top edge of the phone, something sorely missed on the regular model.
+
+Aside from measuring an extra 0.1in across the diagonal, the Pixel 3a’s display remains unchanged. Once more, this is a lovely-looking 2,220 x 1,080 OLED panel, with a pin-sharp pixel density of 441ppi.
+
+The Pixel 3a has three display modes to choose from, with the phone’s “natural” screen profile being the most colour-accurate. According to our colour calibrator, we found that it covered an excellent 95.9% of the sRGB colour gamut, with an impressive average Delta E of 0.91.
+
+In layman’s terms, these figures translate to a phone screen that’s among the very best you can buy, with colour performance on par with what you’d expect from very expensive, professional-grade monitors.
+
+It’s not quite the same story when it comes to the phone’s “boosted” and “adaptive” display modes, which tend to oversaturate colours quite a bit across the entire palette. Of course, if you prefer overly bright, vivid colours, there’s no need to switch to another colour mode, but this isn’t to my taste.
+
+Brightness isn’t too shabby, either. The Pixel 3a is capable of hitting a peak luminance of 416cd/m², meaning it’s perfectly readable in all but the brightest conditions, even if it’s a long way behind Samsung’s dazzlingly bright OLED panels. An excellent contrast ratio of infinity:1 also helps readability.
+
+The Pixel 3a comes equipped with Qualcomm’s newest mid-range chipset, the octa-core Snapdragon 670. This is a 10nm architecture CPU with a clock speed of 2GHz, so you can’t expect the performance of the Pixel 3’s Snapdragon 845, which hit a blazingly fast 2.8GHz. In other respects, it’s much the same, with 4GB of RAM and 64GB of internal storage, which sadly can’t be expanded.
+
+The internal sacrifices don’t translate to a slow phone. Now that we're finally able to provide full benchmark figures, it's clear that the Pixel 3a isn't quite as speedy, but these performance cutbacks aren't as drastic as I'd initially expected. Subjectively at least, the Pixel 3a feels just as nippy in operation.
+
+It makes light work of day-to-day Android tasks and has no issues when switching between multiple applications, either. Even graphically intensive games such as PUBG Mobile and Shadowgun Legends – which both defaulted to high graphics settings – ran without a hitch.
+
+The Pixel 3a’s battery has also increased in size to 3,000mAh. That’s only slightly bigger than the battery in the regular Pixel 3, but when you add the not-so-power-hungry Snapdragon 670 into the mix, you get a phone that lasts quite a bit longer on a single charge. Our in-house video-rundown test, which plays a looped video at a standard display brightness of 170cd/m² and switches off all data connections, reached 15hrs 7mins before battery levels dropped to zero.
+
+With the Pixel 3’s excellent camera attracting superlative-packed reviews since its launch last year, it’s lovely to see Google’s fancy camera tech trickle down into the mid-range.
+
+Of course, the shooting experience differs ever-so-slightly. The Pixel 3a’s camera hardware may be identical, with a single 12.2-megapixel lens and a wide f/1.8 aperture with dual-pixel autofocus and optical image stabilisation (OIS), but it lacks Google’s own Pixel Visual Core add-on. This neat little chip boosts image processing on Google’s top-end Pixel phones, improving the quality of HDR and night-time images.
+
+Regardless, absolutely everything else is identical, and even the most discerning of eyeballs will struggle to tell apart the images shot by the two phones. No matter the lighting conditions, photos look terrific, with superb dynamic range and a pleasingly neutral colour palette. Google’s Night Sight shooting mode impresses yet again when it comes to low-light photography, using AI to illuminate shots in the same way as the flash.
+
+Google also continues to place faith in its HDR+ algorithm, which captures a series of images every time the shutter is pressed, stitching them all together to create the best possible image. Generally speaking, images taken with “HDR+ enhanced” during testing managed to balance out light levels much more effectively than other HDR shooting modes on other phones.
+
+Video recording is equally impressive. While you’re limited to 30fps recording, both 4K and 1080p footage looks crisp and detailed, and, whatever the recording resolution, image stabilisation is rock solid.
+
+Google’s return to the mid-range is a bold yet highly impressive move for the company. Punching through the flagship-killing market – potentially ringing the death knell for the regular Pixel 3 in the process – Google’s Pixel 3a is the antithesis of what we’ve come to expect from cheaper variants of much-loved flagship phones.
+
+While Huawei’s own “Lite” substitutes of its P and Mate-branded smartphones are filled with compromises and cutbacks, the Pixel 3a successfully provides the same top-shelf experiences as its flagship counterparts, only with a softer impact to your wallet.
+
+It’s not quite perfect, but the Pixel 3a represents a significant turning point for Google’s smartphone division. There are cheaper and faster phones out there, but very little else displays as intelligent and well-rounded an approach.

@@ -1,0 +1,113 @@
+Google’s Pixel 3 came near the end of a year that was packed with stunning smartphones. There was a general air of skepticism ahead of the release. The widely leaked design looked dated next to the iPhone XS, the spec sheet appeared lacking next to the Galaxy Note 9, and the single lens camera seemed limited next to the P20 Pro, but the Pixel 3 proved that there are still some things Apple, Samsung, and Huawei could learn from Google’s unique approach to the smartphone market.
+
+Along with the new year a fresh wave of smartphones has washed ashore ready to push the Pixel for the best Android phone title. Starting at $799, the Pixel 3 is $150 more expensive than its predecessor, making its sibling, which starts at $899, less of a leap. You can read our Pixel 3 XL review to find out what we think of the bigger Google phone, but before you decide to go large, allow us to explain what makes the Pixel 3 so compelling.
+
+Design is important, and yet it sometimes feels like Google’s approach to hardware is a little too laidback. The Pixel 3 XL’s ugly, deep notch and the big bezels that flank the Pixel 3’s screen have been roundly derided. Google is behind the curve here. If you’re going to have a notch, there shouldn’t be such a thick bezel at the bottom; if you shrink bezels down, you can fit larger screens in without making handsets too big. If it’s a choice between notch and bezels, we prefer the bezels of the Pixel 3.
+
+All the prejudgment of the Pixel 3 was based on its looks, but our opinion immediately softened when we held one in our hand. This cannot be properly conveyed through words or photos alone, so we strongly suggest you try to lay hands on one yourself. The Pixel 3 is the perfect size and weight for a smartphone. Of all the phones we’ve used over the last year, the Pixel 3 is the easiest to use one-handed and the most comfortable to handle.
+
+It’s gently curved with a glossy frame sandwiched by glass. Google’s signature two-tone design has been retained on the back, with a small glossy section at the top which houses the camera module, and a matte section for the bottom 80 percent which has the centrally-placed fingerprint sensor near the top.
+
+The clever part here is the back of the Pixel 3 is in fact one continuous piece of tough Gorilla Glass 5. The etched finish is a special technique we haven’t seen before. It feels soft to the touch and it doesn’t pick up any visible finger smudges or prints which are such a common blight on glass smartphones.
+
+You’ll find the power button on the right edge with the volume rocker below. On our white review unit, the power button is mint green, but there’s a black version with a black power button, and a pink version with an orange power button. Apart from that there’s just the USB-C port on the bottom edge with the SIM card tray next to it. No room for a MicroSD card here and no 3.5mm audio jack.
+
+The Pixel 3 is a very similar size to the iPhone XS, measuring in a touch taller, but not quite as wide. While Apple has packed a 5.8-inch display into its handset, the Pixel 3’s display is 5.5 inches. The dual lens front-facing camera is embedded in the left side of the top bezel and there are central stereo speakers top and bottom. The speakers are 40 percent louder than the Pixel 2, and they sound much more dynamic, and the sound can easily fill a room.
+
+All the leading phone manufacturers have switched to OLED screens in their flagships now and we’re glad they have. The higher contrast ratio really tells, especially in low light and dark conditions where true black stands out and backlights cause problems.
+
+With a 2,260 x 1,080-pixel resolution, the Pixel 3 display is sharp and legible. Google has made some serious effort here to improve on the displays in last year’s Pixel 2 and Pixel 2 XL, after the latter came in for some serious flack. We’re pleased to report that this year’s phones are pixel perfect.
+
+Placing the Pixel 3 side-by-side with the iPhone XS, it’s impossible to choose between them. The Pixel 3 screen is excellent. Google has upped the saturation after complaints about the more natural display tuning in last year’s phones, and we think it looks much better. It’s also worth noting that you can still dip into the display settings and switch back to the more “natural” color profile.
+
+Gaming in the dark, watching a movie on the train, or reading on a park bench – whatever you’re doing the display looks great and it adjusts automatically to suit the environment.
+
+What excites us most about the Pixel 3 is the groundbreaking artificial intelligence (A. I.) inside. The Pixel 3 can do things no other phone can. A lot of these A.I. smarts reside in the camera, which we’ll get to soon, but Google Assistant is growing more useful by the day and there are other genuinely helpful features in here that add up to a great experience.
+
+The scourge of spam calls may have you dreading your ringtone, so Google’s Call Screening feature will be welcome. It allows you to use Google Assistant to answer a call for you, and then you will see a live transcription of what the caller is saying. Within the first five seconds, it’s easy to tell whether it’s a genuine person trying to reach you or a robocall. You can mark it as spam if it is the latter. You can even use this feature if you’re in a meeting or busy as a way to see why someone is calling, though it might feel a little strange for the person on the other line. Either way, this has quickly become one of our favorite features on the Pixel 3. It has also rolled out to the Pixel 2 and 2 XL.
+
+We tried out Google’s Duplex feature, which allows you to ask Google Assistant to book a table for you or set up an appointment. It’s available on the Pixel 3 in more than 40 states now and it’s set to roll out to any device running Android 5.0 or up very soon. You’ll even be able to use it on the iPhone if you have Google Assistant installed. Sadly, there’s no news on international availability yet.
+
+The clever Now Playing feature, which identifies the music that’s playing wherever you go on the lock screen, has been improved with a history page that allows you to review the track list. That means you can go back and find out what that tune from last night’s party that’s now stuck in your head was.
+
+If you plug in the wired, USB-C earbuds that come with your Pixel 3, then Google Assistant will pop up and tell you when you have a text message, giving you the option to hear it. You can also ask any of the usual array of questions to find out about the next train, your schedule, the weather, or listen to another track.
+
+Speaking of music, you get six months of YouTube Music for free with the Pixel 3, after which it costs $10 per month.
+
+On paper, the Qualcomm Snapdragon 845 processor and 4GB of RAM appear distinctly average, but we haven’t encountered any issues with performance in the Pixel 3. This is a slick, responsive smartphone that happily fires up and runs whatever apps or games you choose.
+
+While the Snapdragon 845 is ubiquitous, many other top smartphones have 6GB or 8GB of RAM, including the relatively cheap OnePlus 6 and the Asus Zenfone 5Z. We can understand why people might have expected Google to pack in more RAM, but we’re confident the vast majority of people are going to be happy with the speed of the Pixel 3.
+
+The benchmark results are exactly what you might expect:
+
+That puts the Pixel 3 at the same level as most other 2018 Android flagships, including the Note 9. We don’t think you’ll see a discernible difference, and the fact that the Pixel 3 is unencumbered by a manufacturer UI, like Samsung’s Experience, means that it feels faster and slicker.
+
+You won’t be surprised to find the latest version of Google’s mobile operating system on the Pixel 3. Android 9 Pie offers lots of little improvements, from more expansive notifications to digital wellbeing checks designed to help you keep your phone use under control. It may take a little period of adjustment to get used to the lack of classic navigation buttons and pick up the new gestures, but anyone switching from another Android device is going to feel at home here.
+
+Check out our Android 9.0 Pie review for a deeper dive into what it has to offer.
+
+As the developer of Android, Google will push security updates and larger feature updates out to the Pixel range first. That means software update speeds on a par with Apple, negating one of the big criticisms of the Android ecosystem: Security and fragmentation. The Pixel 3 is guaranteed to get software updates for at least two years, and security updates for three, which is more than we can say for many other Android flagships.
+
+Our reigning camera phone champion was the Pixel 2, but Google has improved on the Pixel 2 and 2 XL cameras in the Pixel 3 and 3 XL. Once again, both sizes of phone have an identical camera setup.
+
+The main camera boasts a single lens rated at 12.2 megapixels with an f/1.8 aperture. The front-facing camera now consists of two 8-megapixel lenses, one with an f/1.8 aperture and a wide-angle companion with an f/2.2 aperture.
+
+But you must look beyond the hardware to find the exciting changes. Google employs machine learning and A. I. to enhance your photography in a number of clever ways. The HDR+ function, introduced in the Pixel 2, stitches together different exposures to arrive at the ideal shot. It makes a return here, but Google has added some extra features in the shape of Top Shot, Super Res Zoom, and Night Sight.
+
+Top Shot captures frames before and after you press that shutter button and then identifies and discards the blurry shots or the shots where people looked away or blinked. You can tap to expand the menu and review the shots yourself, but we’ve yet to find a better shot than the one suggested. The image quality does take a hit here for photos that aren’t the original, however.
+
+Super Res Zoom is designed to wring greater detail out of photos where you’ve zoomed in. Digital zooms generally result in very noisy shots, but Super Res Zoom helps to reduce the noise and get results that are closer to those you’d expect from a dedicated telephoto lens capable of optical zoom, like the ones you’ll find in the iPhone XS and the Galaxy S9 Plus. It’s good, but it doesn’t quite match up. Zoom in further, and the Pixel 3 generally has the most detail.
+
+Night Sight is an evolution of the HDR+ approach that stitches together even more shots to improve the already decent low light performance, combining frames to improve colors and pick out details that would usually be lost. It’s available as an update to the Google Camera app and it makes a big difference, and works with both the front-facing and main cameras.
+
+Cameras have come far in the last couple of years and picking the best is very subjective, but the Pixel 3 gets our vote. We have several in-depth camera comparisons, but these shots, taken with the Pixel 3 and the iPhone XS, show the difference in approach taken by Google and Apple.
+
+While we see a similar quality and high level of detail in all these shots, there are striking divergences. The Edinburgh Castle photo was taken on typically rainy, misty day and the Pixel 3 is much closer to how the scene looked in real life, but the bluish tinge introduced by the iPhone XS arguably makes the scene more attractive.
+
+For the indoor shot in a bar, the Pixel 3 photo is much brighter and clearer, but veers dangerously towards overexposure in a couple of areas. The iPhone XS shot is softer, but not quite as sharp.
+
+One of the main strengths of the Pixel 3 cameras, both front and back, is the portrait mode. The results in different environments with different light levels are never less than excellent.
+
+The Pixel 3 takes portrait photos that you want to share, and most people are surprised and delighted by the results, though it isn’t perfect. If you look very closely at the edges of the subject, you’ll sometimes see areas where the blur should have been applied but hasn’t been.
+
+The front-facing camera is also capable of portrait shots, applying that bokeh blur after the fact every bit as successfully as the main camera. Each portrait shot is presented as two photos: The original, without the blur, and the second with the blur applied.
+
+One of the biggest upgrades in the Pixel 3 is the introduction of a second wide-angle lens, triggered with an easy to reach slider in the camera app next to the shutter button. You can see that group selfies or selfies where you want to fit in some background are much easier to capture with the wide-angle option.
+
+Pleasingly, unlike some other wide-angle options we’ve used, there isn’t a lot of noticeable distortion in the corners or noise creeping in with the Pixel 3. It’s a well-thought out feature that’s easy to use and it works nicely.
+
+We’re very happy with the camera so far, in fact it’s our pick for best of the year, though it does have some seriously stiff competition. Read our complete guide to Pixel 3 photography for even more info.
+
+Before we move on, it’s also important to note that you get free, unlimited cloud storage for all the photos and videos you take with your Pixel 3 in their original, top quality resolution with Google Photos. That’s a valuable perk.
+
+If you’ve been reading along with a smile, accelerating towards putting in an order for a Pixel 3 at the end of this review, then this is the point where we slam the brakes on. Sit down, take a breath, we have some bad news: This smartphone lacks stamina.
+
+The Pixel 3 has a 2,915mAh battery. We were disappointed with the battery life in the Pixel 2, but hoped that the slight jump in capacity from 2,700mAh, coupled with a more efficient processor and software, might result in a decent jump in stamina. Sadly, that hasn’t been the case and the Pixel 3 is giving us battery anxiety a little too frequently.
+
+On a busy day you’re going to be searching for an outlet long before bedtime. After a fairly busy day of mixed use, with plenty of photo shooting, starting at 8 a.m. we managed to crawl to 11 p.m. but the Pixel 3’s battery percentage was into single figures when we plugged in. Our companion, using the iPhone XS and taking all the same photos, still had 38 percent in the tank.
+
+Much depends on how you use your phone, but we often found the Pixel 3 was low enough by early evening that we’d plug in for a quick charge if we had plans to go out.
+
+The good news is that Google includes proper, USB-PD, fast charging kit in the box, providing an 18W wall charger and a USB-C to USB-C charging cable, unlike some other manufacturers. That means you can go from 17 percent to 42 percent in 15 minutes and it took just 50 minutes to hit 100 percent.
+
+There’s also Qi wireless charging at fast, 10W speeds with any wireless charging pad or stand that supports it. Google is selling its own Pixel Stand wireless charger that it says will charge the phone the fastest, but it does so much more than just charge.
+
+A few months in, battery life is still the main problem we have with the Pixel 3.
+
+The Pixel 3 is currently available for sale, and costs $799 for the 64GB model or $899 for the 128GB model. It is a Verizon exclusive in the U. S., but you can buy it unlocked from Google and use it with any major carrier. You can find out all the details in our Pixel 3 buying guide.
+
+It has a standard one-year warranty in the U. S. and a two-year warranty in Europe. If you’re unlucky enough to encounter a manufacturing defect, your Pixel 3 will be repaired or replaced free of charge.
+
+The Pixel 3 isn’t likely to excite you at first glance, but it’s a smartphone with hidden depths. Google offers the best Android experience hands-down, unique A. I. features that are unmatched elsewhere, and a camera that captures wonderful photos. The trade-off is dull design, though it feels a lot better than it looks, and a worrying lack of stamina.
+
+Maybe. We are impressed with Samsung’s Galaxy S10 range, particularly the Galaxy S10 Plus, which has a gorgeous design, a spectacular screen, and an upgrade to 2019’s flagship processor — the Snapdragon 855. But it is more expensive.
+
+If you like the sound of the Pixel 3, but want a larger screen, then the Pixel 3 XL offers much the same in a bigger, uglier package.
+
+You could save yourself some money with the Pixel 2 or maybe the OnePlus 6T. If you prize certain other things, and you’re outside the U. S. or willing to import, you might fancy the impressive Huawei Mate 20 Pro. These alternatives all have something to offer, but they’re mostly different rather than better.
+
+We think the Pixel 3 will last you three years if you look after it. Google has guaranteed timely software updates for at least that long. You should get a case to protect the glass, but the phone is IP68 water resistant, so you have some water protection.
+
+Yes. If you want the best Android experience and you prefer something you can use one-handed, the Pixel 3 is tailored for you.
+
+Updated on March 11, 2019: We’ve added our thoughts after a few months of using the Pixel 3.

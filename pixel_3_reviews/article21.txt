@@ -1,0 +1,51 @@
+The Pixel 3a XL has the same camera on the back as the more expensive Pixel 3 XL. It's a 12.2MP sensor with f1.8 aperture, dual pixel phase detection autofocus and optical stabilization.
+
+The front camera is different, though. For one, there's only one of them now; the ultra-wide-angle camera has been done away with. Instead, there's just a single camera now with 84� field of view that sits between the 75� main camera and 107� ultra-wide-angle on the Pixel 3 XL in terms of field of view. The sensor behind the lens is also different.
+
+The camera app on the Pixel 3a XL is identical to that of the Pixel 3 XL. The app is generally well laid out and easy to operate while shooting. There are various modes at the bottom which you can tap or swipe through. A menu on the right hides more modes, including the popular Night Sight. Personally, we would have preferred the Night Sight option was placed outside of this menu so it was easier to access but on occasions when it's too dark the phone will automatically present a direct shortcut to the feature from the main Camera mode.
+
+The camera app offers a very basic level of image quality adjustment, mostly through white balance adjustment. Unfortunately, that's the extent of manual control on offer here, as the app has no Pro mode feature. With the level of computational photography Google does on every photo, a full manual mode will likely result in worse images than leaving it up for the software to decide, so we aren't really complaining much. There is a RAW capture option for those who need it but even these images are composite and not a single data dump from the sensor, as is usually the case for RAW files.
+
+One excellent feature of the camera app is focus tracking. While it does the basic face detection, you can also tap on a subject and the camera will track it even if it moves around, and the focus and exposure will adjust accordingly. This is great for composition as you can just tap first on a subject and then recompose and the focus will follow the subject rather than remain where you tapped on the screen. The fast and accurate dual-pixel autofocus also helps tremendously to keep the focus locked.
+
+The app also supports some gestures, so you can double tap from anywhere on the power button and it will start the Camera app. You can also double tap on the viewfinder and it will immediately zoom in. Lastly, you can also twist the phone in your hand while the Camera app is open and it will switch between the back and the front camera.
+
+Now, coming to the image quality, it is what we expected from the phone, that is to say, identical to the Pixel 3 XL. Of course, since that is the main feature of this phone, we aren't really complaining as the Pixel 3 XL does have one of the best cameras on the market.
+
+The Pixel 3a XL camera has all the trappings of its bigger brother; images are detailed with a good balance of sharpness and detail. They are generally a bit underexposed with darker shadows but have excellent highlight retention.
+
+They also generally have good color reproduction. However, the camera has a tendency to go cooler, which gives the images a slightly bluer look that may appeal to some people but isn't true to the original scene. This has always been true of the Pixel cameras which, unlike the iPhone cameras, are tuned for a punchy look rather than accuracy.
+
+This can also be seen in the aforementioned shadow detail. The Pixel camera doesn't bring up shadow detail as much as the iPhone and it captures darker images. This gives the images the characteristic contrasty look, which, again, is made to look better than the original scene.
+
+In low light situations, the Pixel camera does hold its own rather well. The image stacking helps to naturally weed out the noise from the images and it is clever enough to not cause too much image blur.
+
+However, it's when things get really dark does the Pixel camera really shine. The Night Sight mode pulls out light out of situations where it is hard to see with your naked eye. The mode works perfectly well handheld, as long as you remain still, but works the best when the phone is stabilized. This allows the camera to capture a longer exposure and produce a cleaner image.
+
+The final output is remarkably clean with a fair bit of detail. It's really the post-processing on the image here that's impressive, as aligning the images, denoising them and adjusting the color and contrast of the image to generate the final output is extremely complicated engineering but Google developers have pulled it off and the results look amazing.
+
+The only issue that frequently comes up when shooting in the dark is of focusing. While the camera can enhance the image after the shutter button is pressed, it can't adjust or improve the focus. To help with this, the app lets you select whether the subject is 'near' or 'far' but these are very vague terms and it can be hard to nail the focus sometimes. And then there are situations where even your eyes can't see the subject so it's even hard to see before hitting the shutter button if anything is in focus at all.
+
+The focusing makes the Night Sight feature a bit hit or miss at times. However, when it does work, and that's more often than not, the results are astonishing.
+
+The Pixel 3a XL also includes the Portrait mode feature, which, again, works just as well as on the Pixel 3 XL. The default background blur is just a tad bit strong but it can be adjusted after the picture is taken and the overall edge detection is very good.
+
+The phone also uses Google's impressive Super Res Zoom feature. It's definitely the best digital zoom solution out there and the results, at least on the phone's screen or for casual sharing, are very nearly as good as telephoto zoom lens at 2x. However, beyond that, it's hard to hide the fact that it's digital zoom and is no match for a proper telephoto lens.
+
+Talking briefly about the front camera on the Pixel 3a XL, it's a noticeable downgrade from the Pixel 3 XL. The field of view is wider than the standard camera on the Pixel 3 XL but the image is softer, has worse dynamic range and noisier. It's so soft it often looks like it's out of focus. Both the lens and the sensor used here seem to be significantly worse quality than what we see even on mid-range phones these days and aren't worthy of the Pixel brand.
+
+Now, moving over to the video, the Pixel 3a XL can do 4K video in 30fps, 1080p video in 30, 60 and 120fps and 720p video in 30, 60 and 240fps. There's no 4K 60 mode here, but we aren't surprised by that; the more powerful Pixel 3 XL doesn't have it either and the Snapdragon 670 on the Pixel 3a XL isn't even capable of 4K 60 videos.
+
+Image quality in the 4K mode is good and the combination of optical and electronic stabilization works great. The only issue with the latter is that it comes at the cost of a heavy crop.
+
+The 1080p mode also has the same crop. The image quality is also very similar to the 4K mode, so if you aren't looking for the highest resolution, the 1080p 30 mode should suffice.
+
+We also tested the 1080p 60 mode, which, interestingly, now has its own dedicated mode. If you remember back with the Pixel 3 devices, the camera app would offer you two choices for 1080p and 720p modes: 30fps and Auto. Auto would shoot in 60fps if there was sufficient light or switch to 30fps in low lighting conditions. To this day, the Pixel 3 and Pixel 3 XL still have these two options.
+
+However, the Pixel 3a XL now lets you pick between 30fps and a clearly mentioned 60fps, which pulls no tricks on you and will always shoot in 60fps regardless of the amount of light.
+
+The quality of the 1080p 60 videos is mediocre. The video clearly looks like it was shot at a lower resolution and then upscaled to 1080p. The chipset likely does not have the horsepower to shoot natively in 1080p at 60fps.
+
+There are also two slow motion modes. You can either shoot in 720p at 240fps or 1080p at 120fps, although the app doesn't specify it as such. Instead it lets you choose between 1/4th and 1/8th speed for 1080p120 and 720p240, respectively. Both have good image quality and because the electronic stabilization isn't enabled in these modes you also don't get the severe crop from the other modes.
+
+Overall, the camera on the Pixel 3a XL is still very good and one of the best on the market. Having said that, we would like to see Google include an ultra-wide-angle lens camera on the back on future models. A proper telephoto zoom lens wouldn't hurt, either.

@@ -1,0 +1,67 @@
+The Google Pixel 3a XL is here, offering many high-end features for a much more affordable price, especially with its screen and camera credentials.
+
+Google’s Pixel 3 is undeniably a good phone, known for its clean and efficient “Android as Google intended” user experience and astounding camera. But prices start at a fairly steep £739/$799 and, as it’s transpired, this has contributed to underwhelming take-up in the eyes of its creators.
+
+Thankfully, following their unveiling during Google’s I/O 2019 developer conference, there’s now a more affordable way to get your hands on a phone that encapsulates the Pixel experience: the Pixel 3a and Pixel 3a XL.
+
+As with the flagship Pixel 3, the newly launched Google Pixel 3a also comes in an enlarged “XL” form that shares almost identical hardware, save for a larger body, battery and screen.
+
+One of the most important aspects of a new Pixel device is that it feels part of the existing Pixel 3 family and offers a comparable experience, both in its software and hardware.
+
+The 3a XL makes a near perfect landing in this regard. It launches in the same Just Black and Clearly White colours as its pricier siblings, as well as a new pastel lilac shade dubbed ‘Purple-ish’ (which replaces the standard Pixel’s ‘Not Pink’ colourway). The phone sports a polycarbonate unibody, with styling that mirrors the glass backs of its pricier siblings.
+
+The matte finish that covers most of the phone’s back feels nice to hold, especially when paired with the soft rounding along its edges, while button placement is spot on too, at least for right-handed users.
+
+The finish is more prone to showing scuffs and dirt than a glass back would, especially in the lighter shades (although I’ve been able to buff everything out with a quick wipe, so far), but it might hide fine scratches more readily too.
+
+Despite sporting similar dimensions to the Pixel 3 XL, Google has given the 3a XL a decidedly Pixel 3-inspired frontage. There’s no aircraft carrier-sized notch as on the 3 XL, with the phone instead sporting a cleaner (albeit heftier) forehead and chin.
+
+The earpiece doubles as one half of the phone’s surprisingly capable stereo loudspeaker setup, with a down-firing grille, found next to the phone’s USB-C charging port. Also, don’t expect to find the Pixel 3’s dual front-facing camera setup here, instead you have to settle for a more pedestrian single sensor.
+
+With a 6-inch 18:9 Full HD+ display fronting the 3a XL, it’s a decent device for media-lovers and gamers, helped by Google’s use of OLED tech, which offers greater contrast, true blacks and more vivacious colours. You have some control over the screen’s colour output too, even if it’s not as robust as the likes of Huawei’s or Sony’s display settings.
+
+You can’t see it but the Pixel 3a XL is also a little malleable, with Google’s Active Edge feature in place so you can quickly summon the Google Assistant with a tight but brief squeeze of the phone’s lower half. As with other Pixels, you also have the ability to customise the level of force required to pull off a successful interaction.
+
+It’s one touch of polish that I wasn’t sure would make it onto the more conservative 3a series, so its appearance is a pleasant surprise.
+
+One other surprise is the return of the headphone jack. A feature that Google seemingly nixed with 2017’s Pixel 2 series; the 3a and 3a XL both reinstate the 3.5mm port, set into the top edge of the phone’s minimally-styled polycarbonate form.
+
+The other half of the Pixel experience is software and, unsurprisingly, Google’s tailored take on Android Pie underpins the feature set offered by the Pixel 3a XL, which is a very good thing.
+
+It’s a streamlined launcher with a Google Now screen to the left of your main home screen showing pertinent information, a searchable apps drawer when swiping up, and a notifications and quick-settings pane that can be summoned with a swipe down from the top of the screen or by way of the phone’s rear-mounted fingerprint sensor (once you’ve enabled this feature from the gesture-settings menu).
+
+It’s not the most customisable or flexible Android build out there, but it’s easy to get to grips with and use. You also get some smart features that you don’t readily see outside of Pixel town – like ‘Now Playing’ – more on that in a moment.
+
+Those coming from older Android devices might prefer the classic three-button navigation that’s on offer here, but by default, there’s a new sliding pill-shaped home button that doubles as an app switcher. It’s a faster, slicker means of navigating Android but might not suit everyone.
+
+The phone’s OLED screen supports always-on functionality (dubbed ‘Ambient Display’) so you can check on pending notifications and the time at a glance, plus the aforementioned ‘Now Playing’ feature will identify music within the Pixel 3a XL’s range even when the phone doesn’t have an internet connection, which seems like some sort of Google witchcraft.
+
+The 12.2-megapixel sensor found on the back on the back of the 3a XL (and the 3a) isn’t anything to write home about in its own right, but Google’s woven in its photographic magic once again.
+
+It’s a perfectly solid Sony IMX363 sensor, as found on the likes of the Asus Zenfone 5, Xiaomi Mi 8 and Mi Mix 3, but in the hands of Google, and the imaging algorithmic genius they’ve created, it takes pictures that surpass anything you’d expect from a mid-ranger.
+
+The 3a XL takes great shots in all conditions, a rarity for a phone in its class. It’s characteristically slow in low light and noise creeps in when shooting in ‘auto’ under such conditions but with the Pixel line’s signature Night Sight feature onboard, resultant shoots look convincingly as though they’ve been taken in abundant lighting.
+
+Night Sight: Off (left), on (right)
+
+Even with its single sensor, more specialised modes like Portrait also yield impressively believable results, with accurate edge detection and the ability to flip the artificial bokeh on and off after the fact.
+
+Trying to distil a flagship experience into a more affordable package means aspects like the processor need to be dialled back. As such, Google has fitted both the Pixel 3a and 3a XL with a mid-range Snapdragon 670 chipset, accompanied by 4GB of RAM and 64GB of internal storage (there’s no expandability and no higher capacity model here, unlike the standard Pixel 3).
+
+In most everyday scenarios, I never encountered any discernible real-world difference in performance compared to my time with the Pixel 3 series. The exception was gaming, where titles like Alto’s Odyssey ran at a noticeably lower frame-rate. Everything I tested was still playable but in those moments, the 3a XL more obviously embodied a mid-ranger.
+
+Outside of these situations, though, it felt fast and fluid; as responsive as the premium devices it was trying to emulate.
+
+As for battery life, the phone’s decently-sized 3,700mAh power pack left me seriously impressed. I consistently managed just shy of two full days of use, which included music and video streaming, social media browsing and constant notifications from the likes of Facebook and Twitter.
+
+Better yet, should you worry about the 3a XL dying on you, the 18W fast-charger that comes in-box can fill the phone back up to almost half charge (in my tests it reached 48 percent) in just 30 minutes, with the phone going onto reach 80 percent charge within an hour and a full charge in a snip over an hour and a half.
+
+Unlike the standard Pixel 3 line, there’s just one storage option to consider here and as such, one price. The smaller Pixel 3a costs £399, while the Pixel 3a XL is hitting store shelves for £70 more at £469. In its own right it seems like a great smartphone; packing a lot of promise at a justifiable price.
+
+It nails the feel of its more premium companions and retains core benefits like that clean user experience and a capable camera. However, for the money, it also has to contend with devices like the OnePlus 7 and Xiaomi Mi 9 (both of which currently retail for around £499).
+
+The OnePlus boasts more memory and a comparably clean user experience in OxygenOS, while Xiaomi’s Mi 9 takes things a step further by rocking a decent triple-sensor camera setup and fast wireless charging. Both phones also boast this year’s top Qualcomm silicon – the Snapdragon 855 – topping not just the Pixel 3a series, but the Pixel 3 series too.
+
+If you’re after a Pixel 3 or 3 XL and don’t want to pay Pixel 3 prices, you get a surprisingly complete summation of them in the 3a and 3a XL respectively. If anything, the price difference between the two classes of devices actually raises the question “where is your additional £400 going on the more premium Pixels?”
+
+If you’re not dead-set on a Pixel, then your money will go further elsewhere.

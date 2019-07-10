@@ -1,0 +1,37 @@
+With its just-announced (and just-released) Pixel 3a and Pixel 3a XL, Google has attempted to deliver the hallmarks of its flagship phone line — an excellent camera, a smooth and streamlined version of the latest Android, and a growing collection of helpful AI-powered tricks — for a significantly lower price.
+
+Of all the step-down smartphone models, including those from Apple and Samsung, Google's entries probably strip the most out (and at $649 and $799 respectively, they certainly offer a decent cash saving), but they also come closest to parity with the flagship. In fact I've been using a Pixel 3a XL for a week, and most of the time I noticed no difference between it and my usual Pixel 3 XL, despite the $550 difference in price.
+
+Physically the phones very much resemble their more expensive counterparts, but if you compare them directly you'll notice the differences. While the flagship is glass and aluminium, the less expensive phones have a polycarbonate unibody in the same two-tone finish. It feels great to the touch, but it is clearly plastic. Meanwhile the front is covered by Asahi Dragontrail Glass, not Gorilla. Neither change makes a big aesthetic difference, but they mean the phone could be more easily marked or scratched.
+
+On the plus side, many will be thrilled to hear that these phones mark the return of the 3.5mm headphone jack to Google phones.
+
+The Pixel 3a pair feature OLED displays at a little above Full HD resolution, at 5.6 inches or 6 inches respectively, and they're some of the nicest you'll find on any phone. You get the same calibration options as the Pixel 3, so the choice is yours to go for an accurate look or jack up the colours, and the always-on display works just the same too. Although the screen is a slightly different shape (with larger top and bottom bezels), and the XL model does not feature a cutout notch whatsoever, you're essentially getting the same display quality as a flagship phone, which is excellent.
+
+Perhaps even more impressively, the outstanding Pixel 3 camera experience has made it across to these new devices wholly intact. The single, optically stabilised 12.2MP main camera does the work of multiple lenses thanks to a lot of smart software, making for excellent HDR stills, arguably the best portrait mode images around and up to 4K video.
+
+There's also the amazing Night Sight for low-light shots, Playground for messing around in AR with licenced characters like Detective Pikachu and Iron Man, and Lens for doing instant Google Searches based on what you're looking at. As far as the primary camera goes it's identical to the Pixel 3, which makes this the best camera to ever feature on a mid-range device.
+
+The phone's selfie game is the only part of the camera experience that's had an obvious downgrade, as you can no longer take ultra wide front-facing images. Instead of one regular lens and one very wide lens, you just get a single shooter that's a little wider than usual.
+
+Battery life was, in my testing, excellent. The 3a and 3a XL feature bigger batteries than the flagship, and likely aren't as power hungry thanks to less powerful internals. I was making it to the end of the day with 50 per cent still in the tank. There's an 18W fast charger in the box, which isn't cutting edge but it will fill the phone from zero to 100 in around two hours.
+
+On paper, the biggest downgrade for the Pixel 3a is the the use of the Snapdragon 670 CPU, which is not exceptionally powerful. But to my surprise the phone performed wonderfully in just about every scenario, which perhaps shouldn't be that surprising given the calibre of Google's software optimisation wizards.
+
+Android 9 is smooth and snappy here, meaning one of the most appealing features of any Pixel phone — that is, access to the latest software features direct from Google, on top of the most recent version of Android — is just as good here as it is at the high end. Everything from the "Flip to Shhh" gesture and Digital Wellness suite to the AI-powered adaptive battery and brightness is accounted for.
+
+Google Assistant integration is also identical, simply speak the magic words or squeeze the phone to summon it. You also still get free unlimited cloud storage for your photos, and Google is guaranteeing three years of OS updates.
+
+As if to highlight the software parity between the Pixel 3 and Pixel 3a, two brand new software features about to arrive on Pixel phones were included on my review device. AR Navigation lets you raise the phone while walking and see Google Maps directions laid over your view of the real world, while a time lapse mode in the camera app provides an easy way to create smoothly sped-up videos.
+
+At $649 and $799 respectively, the Pixel 3a and 3a XL are going for around 60 per cent of what the standard Pixel 3 and Pixel 3 XL cost. It's a $550 cut in both cases. And so while I'm impressed that these less expensive phones deliver something so close to the flagship experience, there are obviously going to be some drawbacks.
+
+Design-wise, the lower stereo speaker has moved from the front of the phone to underneath, which means it's much easier to accidentally cover it with your hand. Google has opted not to have the 3a tested for an IP rating, but one assumes the plastic body makes it less water resistant than the glass Pixel 3. That plastic body also means there's no wireless charging.
+
+If you compare a Pixel 3 to a 3a directly the impact of the less powerful processor becomes apparent, since it can take a second longer to open or switch between apps. It's not something I noticed in regular use, only in comparison, but it's there. Google's fancy real-time 3D backgrounds are totally missing from the device, which I assume is to do with processing overhead.
+
+Gaming also proved a test for the processor in some situations. I couldn't find a game that ran poorly — even the graphically complex The Elder Scrolls: Blades was perfectly fine — but some fast-paced games that rely on high framerates showed some hitches. It will be interesting to see how the Snapdragon 670 handles new games in two years' time.
+
+But these are all nitpicks in the context of a mid-range device, especially one with such noteworthy talents elsewhere.
+
+As phones get brawnier and faster, pushing beyond a $1500 asking price, the Pixel 3a pair make a convincing argument that most of that power is unnecessary. In choosing to focus on maintaining the quality of the display and camera, and using software to account for a cut in raw power, Google has effectively made a version of the Pixel 3 where the only really noticeable differences are a plastic back and a $500 price drop.

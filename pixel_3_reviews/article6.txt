@@ -1,0 +1,93 @@
+I am going to break an unwritten rule of tech reviews and tell you the ending right at the top: if you want to buy a new smartphone that costs between $300 and $500, you should buy a Pixel 3A or Pixel 3A XL. It is the best phone in that price range, and it’s actually competitive with more expensive phones in one very important way: the Pixel 3A has a great camera.
+
+For the past few years, buying a new smartphone meant following a nigh-unbreakable rule: if you wanted a good camera, you needed to spend at least 600 bucks. That, or you needed to find an older iPhone or take a shot on something used or refurbished. On the flip side, less expensive Android phones have become remarkably good recently, but they still followed the rule because their cameras are almost universally mediocre.
+
+The $399 Pixel 3A ($479 for the larger 3A XL) doesn’t follow that rule. While it has many of the same compromises you usually make when you buy a cheap phone, the photos it takes are nearly indistinguishable from what comes out of a Pixel 3. Depending on where and when you buy it, the Pixel 3 can cost $200 or $300 more.
+
+In 15 years of reviewing phones, I am not sure if I’ve ever been able to write the following sentence: a $400 phone has a camera that’s among the best you can get on any smartphone.
+
+The rest of the Pixel 3A may not blow you away, but it ain’t bad, either.
+
+At first glance, the Pixel 3A phones look nearly identical to the most expensive Pixel 3 phones. The 3A models are just a little bit taller, which might be due to the extra space needed to accommodate — get this — a real 3.5mm headphone jack on the top. The bottom speakers are down-firing instead of front-facing, but otherwise, the aesthetics are extremely similar to the Pixel 3.
+
+They have the same matte / glossy back with a fingerprint sensor circle in the middle of them. The screen sizes are very close — though the 3A XL doesn’t have the unsightly notch of the 3 XL — and the 3A phones even use OLED panels under the glass. These phones don’t look or feel cheap at all even though they have plastic bodies instead of metal. (Like everyone else, Google calls them “polycarbonate.”) The 3A and 3A XL come in black, white, or a new color called “purple-ish” (which looks like pale lavender to me).
+
+The Pixel 3A (as well as the Pixel 3, now) is going to be sold by more carriers in the US. Verizon, T-Mobile, Sprint, US Cellular, and Google Fi will all carry it and, more importantly, support it with financing options and in-store troubleshooting. That’s an odd thing to mention in a phone review, but it matters. Many Pixel owners have had a hard time getting repairs or replacements without having physical stores to go to.
+
+Internationally, carrier support will be about the same as what Google has now, but unfortunately, the prices in the UK are £399 and £469, respectively, which my colleague Vlad Savov rightly called a “rough conversion rate.”
+
+Pixel phones run Google’s version of Android, which is generally simpler and easier to understand than the variants you get from Samsung, LG, or Huawei. It’s more aggressive at pushing some Google services than those other phones, but the trade-off is you are guaranteed to get the latest Android updates as soon as they are available for three years from the time the phone is released.
+
+The Pixel 3A takes photos that are nearly indistinguishable from what you get out of a Pixel 3, which, until very recently, was the undisputed best camera on a phone. It is among the best smartphone cameras on the market today. It’s better than the camera on the iPhone XR, and it’s in the same league as (if not better than) the cameras on the Galaxy S10 and the iPhone XS.
+
+The 12.2-megapixel sensor and f/1.8 lens on the back are the same as the Pixel 3, as is the single 8-megapixel selfie cam on the front. The only hardware difference is that the Pixel 3A lacks Google’s custom Pixel Visual Core processor, so it has to do its image processing on the main CPU and GPU.
+
+That change may lead to some different image processing choices, but if so, they’re super hard for me to spot. The main difference is that images take longer to save. The camera takes about two seconds to fully launch from the lock screen, but after that, it has an instant shutter. It also supports all the same camera features as the Pixel 3: Night Sight, dancing AR cartoons, Top Shot, and the new Time lapse feature coming to all Pixel phones.
+
+Judging the best smartphone cameras on the market today takes you quickly into the quibble zone. You end up zooming all the way in to the pixels on a professional monitor and talking about ISOs and crunch and subtle differences in contrast. You argue about which of the portrait mode models for cutting around your head to blur the background is the least bad (because none of them are great).
+
+We did a bit of that, comparing the Pixel 3A to the Pixel 3. A lot of the differences we saw could be explained away simply by how difficult it is to take two identical photos with different devices in the real world. Forced to decide, I’d say the Pixel 3 photos seem very slightly better in contrast and detail in some cases. But the reality is this: without Adobe Lightroom, a calibrated monitor, and a photography expert talking you through the differences, you probably won’t notice them.
+
+There are other cameras that have bested the Pixel 3 in some ways. Notably, the Huawei P30 Pro has a better zoom and mystifyingly good low-light shots. As for video, I couldn’t really discern that much of a difference between the Pixel 3 and the 3A. But that’s not entirely good news, as the Pixel 3 can’t quite stand up to iPhones and Galaxy phones for video quality.
+
+But — and I really do hate to keep harping on this —  all of those phones cost about twice as much as the Pixel 3A. I cannot stress enough how remarkable it is to have a camera this good on a phone at this price.
+
+There is one important photo difference between the Pixel 3A and the Pixel 3: free backups to Google Photos. On the Pixel 3, you get free unlimited backups of the original resolution photos you’ve taken with the phone. The Pixel 3A is limited to free “high quality” backups, and it makes you pay for more storage if you upload too many original quality photos, just like any other phone. I suppose that’s one way to help get to that $399 price, but I think it’s a cheap move.
+
+By now you’re probably thinking: fine-looking phone, great price, good software, great camera… what’s the catch? Well, there are a few big ones and lots of little ones. Every smartphone — especially every inexpensive smartphone — has trade-offs. Google had to pick some battles to win and some to lose to hit this price point. If you aren’t spending north of $700 to buy a phone, you’re going to have to give a few things up.
+
+The most important catch is speed. The Pixel 3A is not fast. You will absolutely notice it when you’re opening an app for the first time in a while because it will take a second or so longer to load than it would on more expensive phones. When you take a photo that requires some kind of more intense processing — like HDR or portrait — that will take longer, too. Webpages tend to load in instead of snapping instantly into place. You’ll notice it, especially if you’re coming from a relatively recent high-end phone.
+
+And then you won’t — or at least I didn’t. I’m a longtime Pixel user, and within minutes of using the phone, I wasn’t put off by the lag. It didn’t occur to me that I was using a phone with a slower processor because I just never perceived a lag. I don’t think I’m being some kind of apologist here, either. I’ve shown this phone to several of my colleagues and asked if it felt slow, and the universal response has been “I guess, maybe? But it seems totally fine to me.”
+
+The Pixel 3A uses a Qualcomm Snapdragon 670 processor, which is a new-ish midrange processor that’s a bit of an overachiever. It’s not as fast as a Snapdragon 845 (Pixel 3) or 855 (Galaxy S10 and lots of other 2019 phones). It’s nowhere near as fast as the processor in the iPhone XR or XS.
+
+Still, once an app is up and running, it’s just as good as it would be on a Pixel 3. Heck, I even managed to stay alive for several half-hour PUBG mobile games without adjusting away from the default high graphics settings.
+
+One note of caution: the Pixel 3 has earned a reputation in the Android community for inexplicable slowdowns. Some of those problems have been improved with software updates, but not all. Over time, lots of phones have a tendency to slow down. If you have a phone that already starts slower than a flagship out of the gate, it could be a risk that it won’t have the staying power of a more expensive phone.
+
+The second catch is the screen. A great screen has become a must-have for a phone to be considered “premium,” and it’s a big part of what you’re paying for. The best screens on the market go edge to edge with wraparound sides. They have incredibly high resolutions, near-perfect color reproduction, and get blindingly bright. Some even have high refresh rates, which make them feel like you’re moving a physical object instead of coaxing pixels into disappearing and reappearing as you scroll.
+
+The Pixel 3A doesn’t go in for any of that, but it is, nevertheless, a better screen than you would normally get on a phone at this price range. It’s OLED, for one thing, which means that you get perfectly black blacks and an always-on display to show you the time and notifications. The front panel may be surrounded by a plastic rail, but it is real hardened glass. It’s just that it’s Dragontrail glass instead of Corning Gorilla Glass. Unfortunately, I have no idea yet if that means it’s more crack or scratch prone.
+
+I noticed a bit of variation in screen temperatures across the Pixel 3A, 3A XL, and the regular Pixel 3 modes. The 5.6-inch Pixel 3A, in particular, was a little warmer than it probably should have been. If you’re familiar with the history of Pixel phones, I’ll put it this way: both 3A models have more color-accurate screens than the Pixel 2 XL.
+
+On a $1,000-plus phone, you should absolutely nitpick the screen. It should be a pristine expanse of bright, completely invisible pixels. I don’t think a $400 phone needs to be held to the same standard, but that doesn’t mean you should accept crap. This isn’t a crap screen. It’s good, and I had no problems with it.
+
+The last big catch is a combination of overall build quality things. Premium phones are usually made of metal; this one is made of polycarbonate. It doesn’t have glass that melts around the edge of the frame. There are big bezels above and below the screen (but no notch). You won’t get a second camera on the front or the back. The fingerprint sensor is on the back instead of sitting under the screen, and you absolutely won’t get a face unlock feature here.
+
+I didn’t really miss any of those things. No, the Pixel 3A doesn’t feel like a “premium” phone, but it is, nevertheless, well-designed. It’s simple and comfortable. The only real adornment is the classic Pixel’s two-toned finish on the back: the top of it is glossy; the majority is matte. It still supports the squeeze-to-launch Google Assistant feature. You can pick from three colors with twee names: “just black,” “simply white,” and “the new purple-ish.”
+
+There is one build quality trade-off that I wish Google hadn’t made: the Pixel 3A isn’t water resistant. Everything else about this phone — including the price — makes you feel like it can be a knock-around device that you don’t have to worry about. But you will have to worry about it getting doused with liquid.
+
+There are a lot of little things you’ll miss out on with the Pixel 3A. Some of them might matter to you, but I strongly suspect most will not:
+
+* It doesn’t have front-facing stereo speakers. The bottom speaker fires downward. But it still gets plenty loud and sounds all right.
+
+* It doesn’t support wireless charging. This one’s a bummer, but it’s not surprising.
+
+* It doesn’t have the fastest possible networking. If you are on a Wi-Fi network that could push through more than 600 Mbps, you won’t be able to achieve that. (You are almost surely not near such a network.)
+
+* The only storage option is 64GB, and there’s no SD card support to expand it.
+
+* It can’t do wide angle selfies like the Pixel 3 can.
+
+* I’m annoyed enough by the fact that you don’t get Google Photos original resolution backup for free to mention it again.
+
+Add up all of those catches, from the speed to the screen to the build quality to the above list. Are those things worth $300 or more? For a lot of people, the answer is clearly yes. Especially in an age when people are upgrading their phones less frequently and amortizing the cost of them over two or three years, I can definitely see the case for buying the nicest thing you can possibly afford and hanging on to it for as long as possible.
+
+But I really think that, for a lot of people, the answer is no. That’s because that list of catches doesn’t include the stuff that usually makes a cheap phone suck. The Pixel 3A has an excellent battery life, for example. Both the small one and the big one lasted all day for me, with screen-on time well north of four hours, which is better than what I get on a Pixel 3.
+
+It also isn’t filled with the kind of bloatware that manufacturers usually lade cheap phones with in a desperate bid to offset the cost and increase the profit margin. It’s just a clean, Googleified version of Android. That does mean that it’s a little more Google in places like the home screen, the camera, and Assistant, but that’s a damn sight better than what sub-$500 phones usually get.
+
+The biggest catch you don’t have to deal with is the one I’ve already droned on about: cheap phones have always had bad cameras. The Pixel 3A has an excellent camera.
+
+Also, it has a headphone jack.
+
+Am I recommending this phone? Yes. If you want a phone between 300 and 500 bucks, you won’t find a better option.
+
+In a head-to-head comparison with all of the phones you’re probably familiar with, from the iPhone X lineup to the Pixel 3 to the Galaxy S10, the Pixel 3A will lose. I don’t know if the cost savings and the expanded carrier support will be enough to make this phone popular.
+
+But I do know this: I have been waiting for Google to make this exact phone for something like five years. Google used to make phones that were ridiculously good for the price. 2013’s $349 Nexus 5 is still the pinnacle of an inexpensive, excellent phone. Since then, prices across the industry have gone up, up, and up again. So I am glad Google is getting back to those roots. This is the kind of phone Google should be making: something really good and really affordable.
+
+Vox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see . Prices displayed are based on the approximate list price at time of posting.

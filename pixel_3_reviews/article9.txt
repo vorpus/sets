@@ -1,0 +1,33 @@
+Google is pivoting to a whole new pricing bracket. At its annual Google I/O conference Tuesday, the tech giant announced the Pixel 3A and Pixel 3A XL. Though they have last year's name, they're indeed new phones that serve as a more budget-friendly variant of the company's main flagships, the Pixel 3 () and 3 XL.
+
+Starting at $399 and $479 (£399 and £469 in the UK, AU$649 and AU$799 in Australia), the phones continue to represent Google's ultimate expression of its mobile operating system, Android, which is the most popular OS in the world. Though Google's latest flagships are struggling to sell against its Apple and Samsung competitors, which dominate the industry, Google hopes to shake up its pricing model and put more Pixels in people's hands. After all, now that the Pixel 3A phones are nearly 50% cheaper than past generations, the company can now attract a new set of customers and ultimately increase sales.
+
+The Pixel 3A XL has the same camera as the Pixel 3 phones, but Google stripped down a few of its key hardware specs. (For a more in-depth look at the camera, check out CNET's Pixel 3 review.) The Pixel 3A XL is also essentially a larger version of the Pixel 3A, so if you want more detail on what's new with both phones, head to CNET's Pixel 3A review too.
+
+In general, the Pixel 3A XL doesn't have as much of the high-end hardware the original Pixel 3s have, but Google still whipped up a great phone. Compared to the "budget" options of its competitors like the iPhone XR () and the Galaxy S10E, the Pixel 3A XL doesn't have features such as water resistance or wireless charging. But if you want a big screen, the latest software from Google and you want to take fantastic photos -- all at a few hundreds of dollars less than the other phones -- the Pixel 3A XL is the phone to get.
+
+Otherwise, read on for the TL;DR main takeaways.
+
+* The Pixel 3A comes in a new color, "Purple-ish" (in addition to black and white)
+
+* The Pixel 3A XL has a 3,700-mAh battery compared to the Pixel 3 XL's 3,430 mAh
+
+* It's available through Verizon, T-Mobile, Sprint and US Cellular. It works on AT&T too, but you can't buy it directly from the carrier. Here's more info on how to get the Pixel 3A
+
+* It does not have wireless charging
+
+* It doesn't have a second wide-angle front-facing camera
+
+* It doesn't come bundled with PixelBuds earbuds
+
+* It has the less powerful Snapdragon 670 chipset
+
+Apart from the Pixel 3A XL's polycarbonate body (instead of the original glass design) and lack of an on-screen notch, both phones look and feel nearly identical. But the Pixel 3A XL has a lower, 1080p resolution. I didn't see a difference though with my naked eye when watching YouTube videos or reading news articles. You'll have to view both displays under a magnifying glass if you really want to hunt for, say, aliasing with text on the Pixel 3A XL.
+
+The Pixel 3A XL's screen also uses a different type of OLED display that features glass as its base layer instead of plastic. At times, the Pixel 3A XL looks punchier. Reds, yellows and oranges are warmer and whites look brighter. In contrast, the Pixel 3 XL's screen is bluer and despite being the more high-end device, it has much more obvious color shift.
+
+Like the Pixel 3 XL, you can still launch Google Assistant or silence an incoming call by squeezing the phone's sides. Note that you can't reprogram the squeeze to do anything else. In addition, the phone has stereo speakers, and the bottom audio speaker moved from the chin to the bottom edge of the phone.
+
+Because the Pixel 3A XL has the same camera the Pixel 3, photo quality is still excellent. (In fact, the Pixel 3 was our top Android phone of 2018 based on its camera prowess, though it's facing stiff competition now from the Huawei P30 Pro, which is top so far this year.) Images are clear, bright and vibrant, and you can still adjust the focus and blur of your bokeh portraits. The camera also has the dedicated low-light mode Night Sight, as well as Super High Res for zooming into objects and Top Shot, which suggests the best image out of a series.
+
+One new feature is time-lapse video. You can set your frames to record at various time intervals and there's a useful indicator that denotes how long your video will be in real time. To save battery, the viewfinder will also dim after some time, while the phone is still recording. In general, time-lapse videos were clear and steady, but the quality isn't as good as the iPhone XR. In one video I shot in a darkened cocktail party, footage on the Pixel 3A was muddier and grainier compared to the iPhone XR. The time-lapse also looked jerkier or more "pulsating" than on the iPhone ().

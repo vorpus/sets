@@ -1,0 +1,49 @@
+The Google Pixel 3a XL is a different kind of flagship phablet. It has everything you expect from a high-end Android phone—fantastic camera quality, a beautiful display, long battery life, and solid performance—minus the high-end price. No, it isn't quite as powerful as Google's true flagship, the Pixel 3 XL, but at $479, it costs $420 less. While the slightly smaller Pixel 3a earns our Editors' Choice in the midrange phone department, the Pixel 3a XL is every bit as good a value, and easy to recommend to anyone who prefers a larger phone.
+
+While sexy glass-bodied smartphones have dominated the market for the past few years, the Pixel 3a XL doesn't follow that lead. Instead, it yields to a more utilitarian design language that's reminiscent of its pricier sibling.
+
+The phone measures 6.3 by 3.0 by 0.3 inches and weighs in at 5.9 ounces. If you're looking for something easier to handle with one hand, the Pixel 3a measures 6.0 by 2.8 by 0.3 inches and weighs 5.2 ounces. Aside from its size and a smaller battery, it's otherwise identical to the XL.
+
+On the front of the 3a XL, you'll find a 6-inch display surrounded by chunky bezels. The top bezel is home to the front-facing camera and earpiece, while the bottom is bare. The display itself sports a 2,160-by-1,080 resolution, for 402 pixels per inch. It might not be quite as stunning as the Pixel 3 XL (523ppi), but it surpasses Apple's iPhone XR (326ppi) and has a wider color gamut. Speaking of color gamut, we found the 3a XL to be almost identical to the Pixel 3. It's also a little brighter, at 419 nits versus 409 on the Pixel 3.
+
+The unibody frame is made of thick polycarbonate and comes in black, light purple, or white. It has a glossy top quarter that's home to a single camera lens, while the rest of the back is textured. The easy-to-reach fingerprint sensor is centered toward the top of the phone and is quick to respond. Google's logo is discreetly embossed at the bottom of the back panel.
+
+While missing from the Pixel 3, the headphone jack makes its return to the top of the Pixel 3a XL. On the right, you'll find the volume rocker and power button. Both are clicky and easy to distinguish, as the power button is a contrasting color. The bottom of the phone is home to a USB-C charging port and two speakers, while the left houses a SIM slot. At 87dB, the speakers are loud enough to fill a room and offer good sound, though the bass is lacking.
+
+The bottom portion of the phone is also home to a discreet but powerful feature called Active Edge. Simply squeeze the phone and Google Assistant appears by default.
+
+Durability is a mixed bag. Unlike the Pixel 3 XL, the 3a XL doesn't carry an IP rating, meaning there's no official protection against drops or water. On the plus side, the XL's plastic back is less likely to crack from an accidental drop than glass. The display, however, may not be so lucky as Google uses a harder glass here that should be less prone to accidental scratches but might crack more easily.
+
+The Pixel 3a XL's rear camera comes in at 12.2MP with an f/1.8 aperture. Like the Pixel 3 XL, it also features optical and electronic image stabilization. Things are a little different with the front-facing camera: The 3a XL has a single 8MP lens with an f/2.0 aperture compared with an 8MP primary lens with an f/2.2 aperture and a telephoto lens with a wider f/1.8 aperture on the Pixel 3 XL.
+
+The midrange Pixel is also missing the Pixel Visual Core Chip that improves on-device image processing on the high-end models. But Google is terrific at software post-processing and, for the most part, the differences between the two cameras are minor.
+
+I gave the Pixel 3a XL's camera a thorough test at the Whitney Biennial. The first shot, of Degrees of My Deaf Rage in the Art World, by Christine Sun Kim, allows us to assess white balance and how the cameras deal with text. As you can see, the photos are nearly identical, though the Pixel 3a XL has a very slight edge on white balance.
+
+Janiva Ellis' Uh Oh, Look Who Got Wet is a 20-foot painting that uses a bright palette to convey a grim tale. In addition to showing excellent color accuracy, both phones do a superb job of capturing minor variations in shade and hue.
+
+Our third photo is a still from the film and research project Triple Chaser by Forensic Architecture and directed by Laura Poitras. The film moves very quickly, making it nearly impossible to get two identical shots using Night Sight. Comparing two photos taken from the same angle from the same film, however, gives us a pretty good idea of how the phones perform in low light. The Pixel 3 has a minor edge compared with the Pixel 3a, as you can easily read the text on the tear gas canisters when viewing the photos at full size.
+
+The final image is a sculpture by Nicole Eisenman called Procession that is installed on the Whitney's sixth-floor terrace. In bright light, both phones show excellent depth of field and background detail, but the Pixel 3 XL does a bit better with the cotton textures on the bowing sculpture in the background.
+
+By and large, the differences between all of our test shots are nearly imperceptible. Both phones capture terrific images in all lighting scenarios and have excellent color accuracy. Compared with other midrange smartphones, the Pixel 3a XL outperforms the competition in every way.
+
+The 3a XL runs Android 9.0 Pie with Google's custom Pixel UI. Like all Google smartphones, it's guaranteed to get OS and security updates for at least three years. While Android 9.0 is powerful in its own right, Pixel UI adds exclusive features that make using the phone even easier.
+
+In addition to the usual Android apps, the 3a XL comes with Duplex, which automatically makes appointments and reservations for you using Google Assistant. Call Screen answers calls from unknown numbers and gathers information before you pick up the call or send it to voicemail, and Now Playing automatically identifies music playing in the background. AR walking directions use the phone's camera to provide real-time navigation by showing your surroundings with arrows overlaid on top of Google Maps.
+
+The Pixel 3a is powered by a Qualcomm Snapdragon 670 processor and 4GB of RAM. And while it's slightly more powerful than the Snapdragon 636 processor in the Nokia 7.1 and the Moto G7 Power, it feels significantly faster due to Google's excellent software optimization. Apps open instantly and there's no issue multitasking with more than a dozen apps open simultaneously.
+
+On PCMark 2.0, a suite of tests that emulate normal daily smartphone tasks, the 3a XL scored 7,348, which is a vast improvement over the Moto G7 Power (6,107) and the Nokia 7.1 (6,224), but far short of the Pixel 3 XL (9,191). Keep in mind, benchmark tests are simply an objective measure for comparing phones and don't necessarily reflect how they'll perform on a daily basis. In my experience, the speed difference between the Pixel 3a XL and the 3 XL was negligible in almost every use case except when playing graphics-intensive games like PUBG, in which case the Pixel 3 has a clear advantage.
+
+The 3a XL has 64GB of storage, which is the same amount you'll find on the base Pixel 3 XL as well as the Nokia 7.1 and the Moto G7 Power. But while Nokia and Motorola offer additional storage via a microSD slot, the 3a XL has no such option. 64GB should be plenty of storage for most people, however, especially since Google offers free photo storage and most of its apps store information in the cloud. Still, it would be nice to see a 128GB option, or ideally a hybrid SIM slot for additional microSD storage.
+
+A 3,700mAh battery powers the Pixel 3a XL. In our standard battery test, which streams video over Wi-Fi at full brightness, the Pixel 3a XL managed to eke out 9 hours and 48 minutes. That doesn't compare with the 5,000mAh Moto G7 Power (14 hours, 29 minutes), but it's a solid result in its own right. After spending a weekend with the Pixel 3a XL, I feel confident saying most people will be able to easily make it through a full day or more between charges.
+
+And while there's no wireless charging on the Pixel 3a XL, the included adapter does support 18W fast charging with Power Delivery 2.0. It doesn't charge as fast as some phones like the Huawei P30 Pro, but within 30 minutes I had a 37-percent charge, and in an hour I was at a daylong 70 percent.
+
+The Pixel 3a XL ships unlocked and works on all carriers. You can also purchase it directly through every major US carrier with the exception of AT&T. And if you don't want to deal with carriers, Google offers its own Google Fi service that works with the built-in SIM. If you choose to go with Google Fi, set aside about 15 minutes to port your number and activate service.
+
+Like its smaller sibling, call quality on the Pixel 3a XL is excellent. All of our test calls made from downtown Manhattan and Brooklyn were crystal clear. Data speeds were solid as well, with an average of 48Mbps down and 38Mbps up on Google Fi. We also tested the phone with T-Mobile and Verizon SIMs in downtown Manhattan and got similar results.
+
+If you like a big screen, Google's Pixel 3a XL is the absolute the best phablet you can buy for less than $500. And for many people, it's also a compelling alternative to high-end flagships that cost nearly twice as much. It offers features you won't find on any other midrange phone, including a class-leading camera and guaranteed OS updates for at least three years. We're awarding our Editors' Choice to the smaller Pixel 3a, because it offers the same features as the 3a XL for $80 less in a slightly smaller form factor we think many people will find easier to handle. But if you prefer a bigger phone, by all means get the XL.

@@ -1,0 +1,107 @@
+Last year wasn’t all that great for Google’s Pixel 3 lineup. Plagued by a myriad of issues and an an increase in prices, the phones shipped lesser numbers than the already limited volumes of the Pixel 2 series. Now more than ever, Google needs a more affordable entryway into the Pixel family. Bringing the same core experience as the flagships, the new Pixel 3a and 3a XL are designed to appeal to the average buyer who doesn’t care about specifications as long as user experience is great.
+
+Will this be enough to turn the tide for the Pixel series? We try and find out in the Android Authority review of the Google Pixel 3a XL.
+
+I’ve spent a full week using the Google Pixel 3a XL as my primary smartphone. I used the phone on Airtel’s network in Delhi as well as in Goa. The phone ships with Android Pie and the March 5 security patch. Our Pixel 3a XL review unit was running build number PD2A.190115.029.
+
+The Pixel 3A series represents a bold new effort by Google to democratize the Pixel experience. The phone distills the flagship experience to its basics, drops the cruft and offers a clean vision of what Google wants Android phones to be.
+
+For a phone that costs almost half the price of the full-fledged Pixel flagships, Google has done a remarkable job at achieving parity as far as experience is concerned. At no point in my week with the phone did I feel the Pixel 3a XL offered a significantly worse experience compared to the Pixel 3 and Pixel 3 XL.
+
+Pricing, of course, is relative. This is not a budget smartphone. An affordable Pixel at best, it’s more expensive than many affordable flagships in competitive markets like India. Using the phone is an intuitive experience and the Pixel 3a XL simply melds into your day-to-day use. Truth be told, the Pixel 3a XL left me conflicted. This is a phone that offers a truly fantastic user experience but is incredibly hard to recommend in key markets because of the sheer value and specs competitors offer.
+
+Box contents vary a bit across territories, but in India, the phone ships with earbud-style earphones in the box. The earphones have a 3.5mm audio jack. The 18W fast charger is the same that is bundled along with Google’s flagship devices.
+
+Over three generations of hardware, Google has constantly cut design cruft away. As a result, the Pixel design language feels almost organic in nature. The 3a looks nearly identical to the Pixel 3-series in its minimalist approach to design.
+
+Be it the pastel orange on the button, or the soft transition between matte and glossy elements at the back of the phone, there’s a soft, human approach to design here. The phone quickly becomes an extension of the user. And that is something not many glass-and-metal slabs can claim to achieve.
+
+Placed next to the Pixel 3 XL, the design of the Pixel 3a XL looks nearly identical. The major difference is the glass build has been switched out for polycarbonate. Like the more expensive models, the 3a XL too has a seamless transition between the glossy upper-third and the matte section.
+
+You’ll find the same Pixel Imprint fingerprint sensor here as on the Pixel 3/XL, and the same single camera module. The Pixel Imprint fingerprint sensor continuously improves detection rate and security with repeated use. The Pixel 3a XL also includes the Titan M security module from the flagship Pixel phones. Titan M brings added security to the Pixel phones and is responsible for storing all biometric and lock code data.
+
+Back to the design, within a week of use, the white polycarbonate has already picked up a few scuffs and stains. It’ll be very hard to keep this phone looking pristine. I suspect the black variant might fare better.
+
+The right side has the power button and volume rocker within easy reach. The two buttons have excellent tactile feedback. Meanwhile, on the left is a single tray for a nano-SIM card. There is support for eSIMs too.
+
+Look towards the top of the phone and you’ll be in for a surprise. Google has backtracked from their decision to get rid of headphone jacks, at least for their budget models. The Pixel 3a has dual stereo speakers as well. There’s one in the earpiece, while the other is a downward-firing speaker along the bottom edge. The lower speaker, predictably, gets muffled every time you hold the phone in a landscape orientation. Speaker output is reasonably loud and while it doesn’t have the low-end output of some competing devices, highs sound clear and there is no crackling even at high volumes.
+
+The front of the Pixel 3a XL is perhaps the most polarizing element of the design. The massive bezels along the top, bottom, and even the sides are not doing the phone any favors. In a world where manufacturers are going the extra mile to maximize screen real estate, the Pixel 3a XL proudly bears a positively ancient-looking forehead and chin. Google’s affordable Pixels definitely cannot compete with the stunning designs being put out by Android OEMs in this regard.
+
+That said, there is something almost endearing about the design and the perfectly weighted build makes using the Pixel 3a XL a joy. The premium materials and excellent ergonomics go a long way in making sure that the Pixel 3a XL is comfortable to hold and use.
+
+The Google Pixel 3a XL is equipped with a 6-inch OLED display. The screen looks tack-sharp and has all the traits of a great OLED panel, including vibrant colors and fantastic viewing angles. Our testing revealed peak brightness levels of just over 400nits, which isn’t all that great for a premium smartphone. While the screen was viewable outdoors, things weren’t ideal and a brighter screen would have definitely come in handy.
+
+Yes, the Pixel 3a XL has support for the Widevine L1 DRM so you can stream high-resolution content from Netflix and other streaming services.
+
+Set to adaptive mode, the display on the Pixel 3a XL is very accurate, with just a mild saturation boost that helps color pop. The implementation is very subtle, but should you want a more natural look, it’s possible to switch to an sRGB color profile. When switched over to natural, the display comes across as one of the most accurate panels around, with extremely neutral looking colors.
+
+In addition to the quality of the screen itself, the haptics also stood out to me. Typing on the Pixel 3a XL is a very pleasurable experience.
+
+Google’s Pixel series has never really been about top-tier specifications. Even today, the top-end Pixel 3 ships with just 4GB of RAM and that’s exactly the amount of RAM you get on the Pixel 3a XL as well. This is paired with a Snapdragon 670 chipset. The phone is available in a single version with just 64GB of storage. This is way too low, and, after restoring my phone backup, I was left with under half that. While I don’t expect Google to add a microSD card slot to their phone, a higher storage variant would have been more than welcome.
+
+No matter which way you look at it, the Pixel 3a XL does not offer the most value as far as specifications are concerned. However, a spec sheet does not make a phone. In my week with the phone, not once did I feel the phone was running out of steam. The entire experience has been polished to a sheen and I’m yet to run across a single stutter or lag. That’s exactly why you buy a Pixel smartphone.
+
+The Pixel 3a XL does not offer the most value as far as specifications are concerned
+
+There are, of course, some caveats to using a mid-tier chipset. Opening a large PDF took a few more seconds than I’m used to on a higher-end phone. Post-processing in the camera app takes a few more seconds than it would on the higher-end Pixels. This is, of course, to be expected when using a mid-range phone. The lack of the Pixel Visual Core also plays a role in increasing photo processing time in third-party apps.
+
+In terms of performance, the CPU performance of the chipset lies just below that of the Snapdragon 675. Meanwhile, GPU performance is substantially better due to the more powerful Adreno 615 chip. I tried running PUBG on the phone and performance was more than satisfactory. The phone runs the game with the graphics set to HD and the frame rate set to high. I did notice that the phone heats up moderately after 10-15 minutes of gaming but not to an uncomfortable degree.
+
+RAM management continues to be iffy on the Pixel 3a XL. While the phone usually managed things well, there were a few occasions when the music player force closed when I launched an additional app or the Twitter app would load up from scratch. This is a direct result of the somewhat limited amount of RAM available on the phone.
+
+While the regular Pixel 3 and 3 XL suffered from poor battery longevity, the Pixel 3a XL has been rather excellent. A large 3,700mAh battery cell paired with a lower-resolution display and a more frugal processor means that the phone comfortably lasts a full day of extensive use. During my week with the phone, I regularly got close to eight hours and above of screen-on time. At my briefing with Google, the company claimed improving battery life was a key goal while developing the Pixel 3a XL. My time with the phone seems to confirm their claim.
+
+The Pixel 3a XL can easily last a full day of use and I regularly managed to hit 7+ hours of screen-on-time.
+
+The bundled 18W USB-PD-compliant wall charger can speedily charge up the phone. Charging the phone fully from scratch took about 160 minutes, which is extremely slow as far as “fast-charging” solutions are concerned. Dropping wireless charging support as a cost-cutting measure might also be disappointing to some. It’s definitely a missed opportunity to promote the Pixel Stand alongside the phone.
+
+A significant part of the appeal of the Google Pixel is its clean software build. The Pixel 3a XL is no exception. It ships with Android Pie out of the box and it guarantees three years of software updates. The phone has absolutely no bloat onboard. While you can read more about the software here in our Android Pie review, we’ll touch on some of the features exclusive to the phone.
+
+An interesting feature that has carried down from the higher-end Google Pixels is Active Edge. Squeezing the sides of the phone triggers Google Assistant and lets you initiate searches and request without having to pull it up via a gesture.
+
+Also unique and new to the Google Pixel 3a XL and the broader Pixel series is support for AR in Google Maps. Using the feature, you will be able to get direction information overlaid on top of a map of your surroundings. The phone is able to recognize buildings and surroundings and overlay visual signs over them. Unfortunately, this feature is not supported in India due to the lack of Street View data.
+
+Call Screening is another feature unique to the Pixel series. In supported markets, the feature is able to recognize and live-transcribe calls from unknown numbers to reduce the number of spam calls. The Pixel 3a XL also gets the Now Playing feature that Google debuted with the Pixel 2 XL. Using an onboard database of a few thousand songs, the phone can recognize music playing around you and give you an easy-to-access history of all the tracks.
+
+While the 3a retains most of the major software features of Pixel phones, there is one notable omission. The Pixel 3a XL does not ship with support for unlimited full-resolution image backups. We suspect that this was done to differentiate the budget Pixel from the premium device, but it is still very disappointing to see such a key element of the Pixel experience missing from the phone.
+
+One of the tent poles of the Pixel experience is a superior imaging experience. The Pixel 3a XL delivers that as well. The phone sports the same rear-camera module as the full-blown Pixel 3, and other than slower processing, there is practically no difference in image quality between the two phones. The rear sensor and all accompanying algorithms are exactly the same as on the Pixel 3 XL and the Pixel 3a XL.
+
+The phone sports the same rear-camera module as the full-blown Pixel 3 flagship
+
+However, the front camera is a step down from the dual-camera set up on the Pixel 3. The phone has a single 8MP camera with a fixed focus lens and 84-degree field of view. This is significantly lower than the 97 degrees offered by the wide-selfie camera on the Pixel 3. In other words, you won’t be getting as many people into the frame with the Pixel 3a series. The phone compensates for the lack of a “regular” camera by cropping into the frame.
+
+The front-facing camera can capture great-looking shots but there is a noticeable reduction in quality compared to the selfies shot on the flagship Pixels. There is a bit more noise, the frame of view is lower and images are just a bit softer on details.
+
+The Pixel 3a XL gets all the software goodies Google introduced on the Pixel 3, including Top Shot, Photobooth mode, and the much-vaunted Night Sight feature. Newly launched with the Pixel 3a XL is a Time Lapse feature that lets you easily capture, well, timelapses. The feature is quite straightforward and lets you shoot 10-second clips with images captured over 50 seconds, all the way up to 20 minutes.
+
+Google’s HDR algorithms are some of the best in the industry and the Pixel 3a XL is able to capture images with excellent dynamic range. Shooting in strong sunshine, the phone managed to evenly light up the lifeguard while preserving the highlights on the water.
+
+Once again, with the sun blazing down, the HDR algorithms do a fantastic job at preserving details on the parasail. Colors are natural looking and there’s next-to-no noise, as you would expect from a top-tier camera.
+
+Close-up shots look great, with ample details and very natural-looking color rendering. There is a very slight saturation bump in the images, but it tends to give the final result an almost film-like character. While this is not the most versatile camera on the market (the Huawei P30 Pro would take the cake for that), the Pixel series is one of the most reliable shooters. It’s hard to get a bad shot with the camera of the Pixel 3a.
+
+Low-light results are fantastic as well, with ample detail and limited noise. In adverse lighting conditions, the phone pops up a reminder to use the Night Sight mode. The latter stacks data from multiple images to reduce noise. The end result is a bright-looking image with limited noise. As it stands, Night Sight mode on the Google Pixel 3a XL is second only to the Huawei P30 Pro and its Super Spectrum sensor in its low-light image capturing ability. Here’s our Pixel 3 and Huawei P30 Pro camera comparison for a deep dive on both phones’ capabilities.
+
+Video recording on the Pixel 3a XL goes all the way up to 4K at 30 frames per second. Fused stabilization using OIS and EIS does a very good job and the footage looks sharp and mostly free of noise. It is however not as versatile as the Huawei P30 Pro and the Galaxy S10 series, which offer more control and even HDR video recording.
+
+We’ve included full resolution camera samples from the Google Pixel 3a XL here.
+
+It is incredibly hard to ascertain value to the Google Pixel 3a XL. Prices for the phone vary drastically depending on the market, but one thing is for sure, if specifications are a key buying criterion for you, the Pixel 3a XL will almost certainly not cut it.
+
+Take away the spec sheet element though, and the Pixel 3a XL delivers an incredible experience for the average smartphone buyer. The camera is phenomenal and unmatched by any phone at Pixel 3a XL’s price point, and even higher.
+
+The guaranteed software updates, well-optimized user experience and great battery life are all credible selling points for a non-demanding user.
+
+Ultimately, it comes down to your smartphone usage patterns. If you find yourself playing a lot of games or pushing your phone’s hardware with a whole lot of apps, it’s hard to make a case for the Pixel 3a XL. For everyone else, Google finally has a really good option that gets you the core flagship experience at a fraction of the cost.
+
+The Pixel 3a XL takes the best of what Google’s flagships have to offer and brings it to a much more palatable price point. For the most part, Google has made the right compromises in delivering a phone that provides a legitimately great user experience, over a beefed-up spec sheet and half-baked software.
+
+The Pixel 3a XL distills the flagship experience to a much more palatable price point.
+
+This is a phone designed for regular people who just want a phone that can capture great memories, deliver solid battery life, and will last them a good few years. For me, the Pixel 3a XL delivers on its promise and is definitely worth a recommendation.
+
+That wraps up our Google Pixel 3a XL review. Would you consider buying one? Or will you prefer something with a bit more grunt under-the-hood? Let us know in the comments section.
+
+Dhruv Bhutani shares his thoughts on the Pixel 3a XL with Adam Doud and Jonathan Feist in the latest episode of the Android Authority podcast. Listen to it below and subscribe!

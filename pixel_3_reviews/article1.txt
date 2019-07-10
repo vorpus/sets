@@ -1,0 +1,57 @@
+The Pixel 3a ups the ante for what we can expect from midrange smartphones. It offers many similar features to the $799 Pixel 3 for half the price. Sure, there are some concessions, but the value you get for your money is truly outstanding. For $399, the Pixel 3a offers solid performance, good battery life, a gorgeous OLED display, and the absolute best camera performance you'll find on a phone for less than $700. It's easy to recommend the Pixel 3a to anyone looking for flagship-level features on a more moderate budget, so we're naming it our Editors' Choice for midrange phones.
+
+What's different between the Pixel 3a and the Pixel 3? For starters, the Pixel 3 has a much more powerful processor, making it better for gaming and other intensive applications. It also has a Pixel Visual Core image processing chip, and a glass back panel to facilitate wireless charging. You don't get those things here. But let's focus on what you do get, and why it's such a good value (and for more on what's different, see our story on the Pixel 3a vs. the Pixel 3).
+
+From the front, the Pixel 3a and the Pixel 3 look nearly identical, but if you look a little closer, you'll notice a few differences. For starters, the Pixel 3a is slightly taller and wider, at 6.0 by 2.8 by 0.3 inches to the Pixel 3's 5.7 by 2.7 by 0.3 inches. It comes in at the same 5.2 ounces, however, since it has a polycarbonate back panel instead of glass. And the front display is a smidge larger at 5.6 inches compared the 5.5-inch Pixel 3.
+
+While the back of the Pixel 3a is made of rigid plastic, it has the same textured design as the Pixel 3. The top quarter of the chassis is glossy and has a single camera lens on the left. Just below the transition to textured plastic, a fingerprint sensor is easy to reach in the center. Toward the bottom, the Google logo is elegantly embossed. The phone is available in black, light purple, or white. Unlike the Pixel 3, it doesn't have an IP rating for water resistance, so you'll need to be a little more careful when using it, or invest in a waterproof case.
+
+The top of the phone is home to the 3.5mm headphone jack (something you won't find on the Pixel 3), while the bottom holds the USB-C charging port and speakers. On the right you'll find the volume rocker and power button. Both are accessible even with small hands, and the power button is easy to identify thanks to its contrasting color. The left is home to a SIM slot, though there's also an eSIM on board so you may never need to use it.
+
+The front is home to the aforementioned 5.6-inch display, which is sandwiched between chunky top and bottom bezels. The top bezel houses the front-facing camera and earpiece, while the bottom bezel is just sort of there—there's no front-firing speaker like on the Pixel 3.
+
+Although the Pixel 3a's 5.6-inch OLED display is constructed of a different type of glass than the more expensive Pixel 3, it's basically identical. It features 2,220-by-1,080-pixel resolution for 441 pixels per inch compared with the Pixel 3's 2,160-by-1,080, 443ppi panel. Our lab tests shows nearly identical color gamut between the two displays, with the only notable difference being that the Pixel 3a is a little brighter than its sibling at 409 nits versus 400 nits.
+
+If you're a fan of larger displays, meanwhile, you might want to check out the Pixel 3a XL. While it's a near carbon copy of the 3a, the XL model has a larger 6.3-inch OLED display.
+
+Camera performance is often one of our many complaints about midrange phones. While models like the Nokia 7.1 and the OnePlus 6T do well in bright light, their abilities are a lot more hit-or-miss in low light. We're happy to report, however, the Pixel 3a's camera can easily compete with (and sometimes best) some of the top flagship phones on the market.
+
+The rear camera comes in at 12.2MP with an f/1.8 aperture, as well as optical and electronic image stabilization. It's nearly identical to the sensor on the Pixel 3.
+
+The front camera is a little different compared with its more expensive sibling. Where the Pixel 3 has a wide-angle 8MP lens with an f/2.2 aperture, as well as a telephoto lens with a wider f/1.8 aperture, the Pixel 3a has a single 8MP lens with an f/2.0 aperture.
+
+In bright light, the Pixel 3a performs beautifully. Our lab photos are vivid and show excellent color accuracy. Both background and foreground images are well defined, and depth of field, an aspect where many midrange phones stutter, is perfect.
+
+Low-light photos look spectacular as well. We took the Pixel 3a to The Metropolitan Museum of Art's Camp: Notes on Fashion exhibit to see how well it performed in various levels of low light compared with the Pixel 3. We used Night Sight on both phones when it was suggested and took over a dozen photos. As you can see here, the Pixel 3a photos are nearly indistinguishable from the Pixel 3. Looking at them in full size, however, background details in Night Sight are a little less blown out on the Pixel 3 compared with the 3a. Still, there's no question you're going to get spectacular photos with the Pixel 3a, no matter when or where you're shooting.
+
+And while the Pixel 3a is missing the second front-facing selfie lens, it still does a great job in all lighting situations. During our tests we found it to work equally well in both daylight and low light, and portrait mode works like a charm. All of our test shots came out crisp, with a natural-looking bokeh.
+
+The Pixel 3a uses a Qualcomm Snapdragon 670 processor and 4GB of RAM. Its closest competitors, the Nokia 7.1 and the Motorola Moto G7 Power, both have slower Snapdragon 636 chips. While it may not seem like a big difference on paper, the bump in processing power along with Google's elegant software tweaks make a significant difference in real-world usage. Apps open instantaneously and, try as we might, we were unable to slow the phone down with over a dozen apps open at once.
+
+In comparision, the Pixel 3 packs a much more powerful Qualcomm Snapdragon 845 processor. In short, if you're a hardcore gamer, regularly use video editing or drafting software, or just want the most power on a Pixel handset, you'll want to stick with the Pixel 3. But for the average user, the Pixel 3a should be more than sufficient.
+
+See How We Test Phones
+
+Benchmark results underscore this point. The Pixel 3a scored 7,378 on PCMark, a benchmarking app that emulates everyday use, which is significantly better than the Nokia 7.1 (6,224) and the Moto G7 Power (6,107), but short of the Pixel 3 (9,358).
+
+Storage comes in at 64GB. That's the same amount as you'll find on the entry-level Pixel 3, as well as the Nokia 7.1 and Motorola Moto G7 Power. But unlike the 7.1 and the G7 Power, there's no option to add additional storage via a microSD card. It would have been nice to see a 128GB storage option, or ideally a microSD slot, but we don't think this is a deal breaker since Google offers free photo storage.
+
+The Pixel 3a is powered by a 3,000mAh battery. In our rundown test, which streams video over Wi-Fi at full brightness, the 3a managed to last for a solid 9 hours and 22 minutes. That's not as impressive as the Moto G7 Power (14 hours, 29 minutes), but you should still have no problem getting more than a day between charges with more conservative use. If you do find yourself in a lurch, the Pixel 3a supports 18W fast charging with Power Delivery 2.0 with the included adapter.
+
+It's no surprise the Google Pixel 3a ships with Android 9.0. It features a custom Pixel UI that adds exclusive features developed by Google like Duplex, Now Playing, and Call Screen. While other manufacturers create their own custom interfaces with special tweaks, it's hard to beat the experience of a using a pure Google phone.
+
+In addition to the latest version of Android, the Pixel 3a is guaranteed to get at least three years of software updates. It's also first in line for updates, so you won't have to wait for months to get Android Q later this year.
+
+The Pixel 3a ships unlocked and supports all US carriers. And unlike past models, it's also available through all the major carriers except AT&T. It supports every major LTE band including band 71, so even T-Mobile customers in rural areas should expect solid data quality. In our tests on T-Mobile's network in New York City, the phone performed like a champ, with speeds of 48Mbps down and 38Mbps up despite heavy network congestion.
+
+Call quality is superb. During multiple test calls, we could easily understand the other party and there was no static or clipped words. Noise cancellation worked perfectly, without background noise seeping through on any of our calls. Earpiece volume comes in at 81dB, so it's easy to hear who you're talking to in just about any atmosphere.
+
+Unlike the Pixel 3, the Pixel 3a has bottom-firing stereo speakers. They can get quite loud at 88dB in our tests, and while there is no bass to speak of, the overall sound is bright and clean without any tininess or static.
+
+The Pixel 3a supports Wi-Fi on the 2.4GHz and 5GHz bands. Bluetooth 5.0 is included for wearable and audio connectivity. There's also NFC for Google Pay.
+
+The Google Pixel 3a is an unequivocal win for midrange phone buyers, with good battery life, a lovely display, the latest Android software, and a best-in-class camera. No other $400 phone comes close to offering this level of performance and polish, so it's no surprise the Pixel 3a earns our Editors' Choice for midrange phones.
+
+If you're on the fence between the Pixel 3a and the Pixel 3a XL, it ultimately comes down to a matter of size. If you like big phones, get the XL. We're giving the smaller 3a our Editors' Choice, however, because there is simply no better phone for the price. At $479, the Pixel 3a XL starts to compete with the $550 OnePlus 6T and the $500 Samsung Galaxy S9, both of which offer more processing power.
+
+Compared with the Pixel 3, the Pixel 3a isn't quite as powerful, but it offers the same Android software and update schedule, a comparably gorgeous screen, and, most importantly, shockingly similar camera performance. If you want the absolute fastest hardware for gaming or other resource-intensive apps, get the Pixel 3. Everyone else can pat themselves on the back for saving $400 on the Pixel 3a.

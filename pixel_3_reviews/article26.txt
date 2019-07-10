@@ -1,0 +1,39 @@
+The Pixel 3a XL has a 6.0-inch, 2160x1080px resolution OLED display. The display is protected by the Asahi Dragontrail glass rather than Corning Gorilla Glass used on the more expensive Pixels.
+
+Compared to the Pixel 3 XL display, the display on the Pixel 3a XL is a bit shorter but it also has a much lower resolution. It also lacks HDR10 video support and is suited only for regular videos.
+
+Despite that, the display on the Pixel 3a XL is excellent. It gets reasonably bright outdoors and also sufficiently dim indoors. It has good viewing angles and does not exhibit any banding, black crush or dirty screen effect. The color accuracy in the standard sRGB mode is also right up there with the best in the industry, and there's also support for DCI-P3 content due to the wide color support and OS-wide color management.
+
+The lack of HDR is a minor complaint but there isn't a ton of HDR content right now to take advantage of it, anyway. The YouTube app can emulate it in software but it looks no different than the SDR version.
+
+The display on the Pixel 3a XL also fixes one majorly annoying issue with the Pixel 3 XL display, which was accidental touches. The Pixel 3 XL display is sensitive right to the edge of the glass, which makes it easy to trigger accidental touches all the time, making it frustrating to use. The Pixel 3a XL has no such issues, and we had no problems handling the phone without triggering the display with the palm.
+
+But numbers speak better than any subjective observation. According to our tests, the screen can reach up to 451 cd/m2 of maximum brightness and there�s no additional boost in brightness in Max Auto mode. That translates into rather average sunlight legibility.
+
+We also found that the default Adaptive color mode isn�t the best in terms of color accuracy as it scored around 4.6 dE2000. Switching to Boosted and Natural will largely improve overall color accuracy with the latter going as low as 2.0.
+
+Overall, the display on the Pixel 3a XL is one of the best you can find in this price range. Unfortunately, while the lack of any notch or cutout is appealing, the massive bezels are far more distracting than any notch we have ever seen.
+
+The Pixel 3a XL has a 3700mAh battery, a notable step-up from the 3430mAh on the Pixel 3 XL. The Pixel 3a XL also has a far more frugal processor, so we were expecting good things in terms of battery life from the device.
+
+And our expectations were met. The Pixel 3a XL scored excellently in our battery tests. Standby, talk time and screen-on tests stand for stellar battery life. We really don't have any complaints here. It appears that the energy-efficient OLED panel and the Snapdragon 670 make a great duo when it comes to energy efficiency.
+
+The Pixel 3a XL supports fast charging using the USB-Power Delivery protocol. The phone ships with the same 18W fast charger as the Pixel 3 XL. Unfortunately, this isn't the fastest charging solution on the market. Still, it's reasonably quick and in two hours you can charge the phone completely.
+
+One thing missing from the Pixel 3a XL is wireless charging. The phone has no support for the Pixel Stand, nor any other type of wireless charger. It's a bit of a bummer but in all likelihood, it won't be an issue for most users.
+
+The Pixel 3a XL also includes stereo speakers. They fire in different directions but most of the time that doesn't affect the audio. For watching videos that are mostly voices or for games, the speakers sound fine. They sound best when kept under 80% volume, as beyond that the sound gets a bit thin and unpleasant.
+
+But as far as loudness goes, the handset's loudspeakers can go pretty high so you don't have to worry about hearing them in loud environments. In fact, our tests show that they are one of the loudest we've tested so far.
+
+With the Pixel 3a XL, Google has resurrected the headphone jack that was sacrificed on the Pixel 3 devices. The upside to this is obvious; you can always use Bluetooth or USB-C headphones but now all of your existing analog headphones will also work just fine.
+
+As mentioned before, Google also bundles a pair of wired earphones. These are completely different from the USB-C Earbuds that come with the Pixel 3 phones. For one, the earbuds with the Pixel 3a XL has a standard 3.5mm headphone plug but the speakers themselves have an in-ear design.
+
+This gave us some hope for audio quality, as the USB-C Earbuds that come with the Pixel 3 phones are patently rubbish. Unfortunately, the earbuds that come with the Pixel 3a XL are only a small improvement. The mid-range is fine but the bass is bloated and overpowering. Meanwhile, on the other end of the audio spectrum, there seems to be no high-end to speak of. This gives the earbuds a muffled, boomy sound that can easily be surpassed by even inexpensive aftermarket earphones.
+
+The Google Pixel 3a XL had an exemplary performance with an active amplifier, getting top marks for clarity and delivering very loud output.
+
+The high volume was well retained with headphones too, so the phone will have no trouble driving even high impedance sets to sufficient loudness. We also saw so very little degradation in terms of quality - the stereo crosstalk increased a bit more than average, but on the other hand no other readings moved, so we'd call it a win.
+
+You can learn more about the tested parameters and the whole testing process here.
